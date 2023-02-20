@@ -2,4 +2,4 @@
 #define CORSS_H
 #include <string>
 std::string cross(int size);
-#endif // CORSS
+#endif 
