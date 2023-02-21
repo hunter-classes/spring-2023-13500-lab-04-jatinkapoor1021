@@ -1,4 +1,8 @@
 #include "checkerboard.h"
+#include <cstdlib>
+#include <climits>
+#include <string>
+#include <fstream>
 //Task B for checkerboard.cpp this is the cpp file
 std::string checkerboard(int width, int height) {
 	std::string shape = "";		

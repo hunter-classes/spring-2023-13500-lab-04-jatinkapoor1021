@@ -1,5 +1,8 @@
 #include "cross.h"
+#include <cstdlib>
+#include <climits>
 #include <string>
+#include <fstream>
 //Task C for cross.cpp this is the cpp file
 std::string cross(int size) {
     std::string shape = "";

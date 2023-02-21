@@ -1,5 +1,8 @@
 #include "checkerboard3x3.h"
+#include <cstdlib>
+#include <climits>
 #include <string>
+#include <fstream>
 
 std::string checkerboard3x3(int width, int height) {
     std::string shape = "";

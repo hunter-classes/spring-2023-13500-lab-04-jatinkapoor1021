@@ -1,5 +1,8 @@
 #include "lower.h"
+#include <cstdlib>
+#include <climits>
 #include <string>
+#include <fstream>
 
 std::string lower(int height) {
     std::string result;
