@@ -4,6 +4,10 @@
 #include "upper.h"
 #include "checkerboard.h"
 #include "cross.h"
+#include <cstdlib>
+#include <climits>
+#include <string>
+#include <fstream>
 
 int main() {
     
