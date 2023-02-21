@@ -1,4 +1,5 @@
 #include "box.h"
+#include <string>
 
 
 
